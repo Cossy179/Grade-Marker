@@ -46,4 +46,8 @@ The grade of the test assignment will be printed to the console.
 ## Disclaimer
 
 This model is not guaranteed to provide accurate grades and should be used as a tool to assist in grading rather than a replacement for human grading.
-This currently only works with assignments with 400ish words, so not ideal for anything above and would give very inaccurate results
+This currently only works with assignments with 400ish words, so not ideal for anything above and would give very inaccurate results.
+
+For a model that can cope with a higher word count visit:
+
+https://github.com/Cossy179
