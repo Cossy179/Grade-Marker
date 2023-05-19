@@ -50,4 +50,4 @@ This currently only works with assignments with 400ish words, so not ideal for a
 
 For a model that can cope with a higher word count visit:
 
-https://github.com/Cossy179
+https://github.com/Cossy179/Grade-Calculator-LongForm
